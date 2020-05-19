@@ -7,10 +7,17 @@
     <title>Sign Up Form by Colorlib</title>
 
     <!-- Font Icon -->
+<<<<<<< Updated upstream
     <link rel="stylesheet" href="fonts/material-icon/css/material-design-iconic-font.min.css">
 
     <!-- Main css -->
     <link rel="stylesheet" href="css/style.css">
+=======
+    <link rel="stylesheet" href="colorlib-regform-7/fonts/material-icon/css/material-design-iconic-font.min.css">
+
+    <!-- Main css -->
+    <link rel="stylesheet" href="colorlib-regform-7/css/style.css">
+>>>>>>> Stashed changes
 </head>
 <body>
 
@@ -49,7 +56,11 @@
                         </form>
                     </div>
                     <div class="signup-image">
+<<<<<<< Updated upstream
                         <figure><img src="images/signup-image.jpg" alt="sing up image"></figure>
+=======
+                        <figure><img src="colorlib-regform-7/images/signup-image.jpg" alt="sing up image"></figure>
+>>>>>>> Stashed changes
                         <a href="#" class="signup-image-link">I am already member</a>
                     </div>
                 </div>
@@ -61,7 +72,11 @@
             <div class="container">
                 <div class="signin-content">
                     <div class="signin-image">
+<<<<<<< Updated upstream
                         <figure><img src="images/signin-image.jpg" alt="sing up image"></figure>
+=======
+                        <figure><img src="colorlib-regform-7/images/signin-image.jpg" alt="sing up image"></figure>
+>>>>>>> Stashed changes
                         <a href="#" class="signup-image-link">Create an account</a>
                     </div>
 
@@ -100,7 +115,12 @@
     </div>
 
     <!-- JS -->
+<<<<<<< Updated upstream
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="js/main.js"></script>
+=======
+    <script src="colorlib-regform-7/vendor/jquery/jquery.min.js"></script>
+    <script src="colorlib-regform-7/js/main.js"></script>
+>>>>>>> Stashed changes
 </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
 </html>
