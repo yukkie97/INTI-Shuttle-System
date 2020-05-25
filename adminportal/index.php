@@ -81,7 +81,7 @@
                             <img class="user-avatar rounded-circle" src="images/admin1.png" alt="User Avatar">
                         </a>
                         <div class="user-menu dropdown-menu">
-                            <a class="nav-link" href="#"><i class="fa fa-power -off"></i>Logout</a>
+                            <a class="nav-link" href="../login.php"><i class="fa fa-power -off"></i>Logout</a>
                         </div>
                     </div>
                 </div>
@@ -404,10 +404,10 @@
             <div class="footer-inner bg-white">
                 <div class="row">
                     <div class="col-sm-6">
-                        Copyright &copy; 2020 INTI Shuttle
+                        Copyright
                     </div>
                     <div class="col-sm-6 text-right">
-                        Designed by INTI Student</a>
+                        Designed by INTI Student <br>Copyright &copy; 2020 INTI Shuttle
                     </div>
                 </div>
             </div>
