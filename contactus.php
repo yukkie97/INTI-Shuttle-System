@@ -34,8 +34,8 @@
                             <ul class="d-flex flex-row align-items-center justify-content-start">
                                 <li><a href="homepage.php">Home</a></li>
                                 <li><a href="#">Bus Schedule</a></li>
-                                <li><a href="#">Bus Drivers</a></li>
-                                <li class="active"><a href="#">Contact Us</a></li>
+                                <li><a href="busdrivercontact.php">Bus Drivers</a></li>
+                                <li class="active"><a href="contactus.php">Contact Us</a></li>
                                 <li><a href="../INTI-Shuttle-System/login.php">Sign In</a></li>
                             </ul>
                         </nav>
